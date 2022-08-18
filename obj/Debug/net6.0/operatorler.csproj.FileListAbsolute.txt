@@ -1,0 +1,15 @@
+D:\patica\pratikler\operatorler\bin\Debug\net6.0\operatorler.exe
+D:\patica\pratikler\operatorler\bin\Debug\net6.0\operatorler.deps.json
+D:\patica\pratikler\operatorler\bin\Debug\net6.0\operatorler.runtimeconfig.json
+D:\patica\pratikler\operatorler\bin\Debug\net6.0\operatorler.dll
+D:\patica\pratikler\operatorler\bin\Debug\net6.0\operatorler.pdb
+D:\patica\pratikler\operatorler\obj\Debug\net6.0\operatorler.csproj.AssemblyReference.cache
+D:\patica\pratikler\operatorler\obj\Debug\net6.0\operatorler.GeneratedMSBuildEditorConfig.editorconfig
+D:\patica\pratikler\operatorler\obj\Debug\net6.0\operatorler.AssemblyInfoInputs.cache
+D:\patica\pratikler\operatorler\obj\Debug\net6.0\operatorler.AssemblyInfo.cs
+D:\patica\pratikler\operatorler\obj\Debug\net6.0\operatorler.csproj.CoreCompileInputs.cache
+D:\patica\pratikler\operatorler\obj\Debug\net6.0\operatorler.dll
+D:\patica\pratikler\operatorler\obj\Debug\net6.0\refint\operatorler.dll
+D:\patica\pratikler\operatorler\obj\Debug\net6.0\operatorler.pdb
+D:\patica\pratikler\operatorler\obj\Debug\net6.0\operatorler.genruntimeconfig.cache
+D:\patica\pratikler\operatorler\obj\Debug\net6.0\ref\operatorler.dll
